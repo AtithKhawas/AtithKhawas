@@ -7,42 +7,74 @@ I'm a **BSc Cyber Security Student** with a passion for **Incident Response** an
 **🛠️ Skills & Tools**
 
 **Programming Languages:**
+
 Bash Scripting
+
 C Language
+
+
 **Penetration Testing Tools:**
+
 Nmap
+
 Burp Suite
+
 Metasploit Framework
+
 Wireshark
+
 Tcpdump
+
 Nessus
+
 Nikto
+
 Shodan
+
 Sublister
+
 Subfinder
+
 Dirbuster
+
 Gobuster
+
 Masscan
+
 Amass
+
 wafwoof
+
 OpenVas
+
 JohnTheRipper
+
 Hashcat
+
 Hydra
+
 Aircrack-ng
+
 Autospy
+
 Binwalk
+
 Exiftool
 
 **Security Information and Event Management (SIEM):**
 
 Splunk
+
 Elastic Stack(ELK)
 
 **Operating Systems:**
+
 Ubuntu 
+
 Kali Linux
+
 Parrot OS
+
 Windows
 
 **📫 How to Reach Me:**
